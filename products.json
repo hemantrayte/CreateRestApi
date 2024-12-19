@@ -1,0 +1,22 @@
+[
+  { "name": "iphone", "price": 154, "featured": true, "company": "apple" },
+  { "name": "samsung galaxy", "price": 120, "featured": true, "company": "samsung" },
+  { "name": "google pixel", "price": 180, "featured": true, "company": "hp" },
+  { "name": "oneplus 11", "price": 139, "featured": true, "company": "hp" },
+  { "name": "xiaomi mi 11", "price": 110, "featured": true, "company": "apple" },
+  { "name": "huawei p40", "price": 160, "featured": true, "company": "hp" },
+  { "name": "sony xperia", "price": 140, "featured": true, "company": "hp" },
+  { "name": "moto g power", "price": 100, "featured": true, "company": "dell" },
+  { "name": "lg velvet", "price": 130, "featured": true, "company": "dell" },
+  { "name": "nokia 8.3", "price": 120, "featured": true, "company": "dell" },
+  { "name": "asus zenfone", "price": 150, "featured": true, "company": "apple" },
+  { "name": "oppo reno", "price": 135, "featured": true, "company": "hp" },
+  { "name": "realme narzo", "price": 115, "featured": true, "company": "hp" },
+  { "name": "vivo v21", "price": 125, "featured": true, "company": "apple" },
+  { "name": "xiaomi redmi note", "price": 99, "featured": true, "company": "apple" },
+  { "name": "samsung note 20", "price": 200, "featured": true, "company": "samsung" },
+  { "name": "apple ipad", "price": 250, "featured": true, "company": "apple" },
+  { "name": "samsung tab", "price": 230, "featured": true, "company": "samsung" },
+  { "name": "lenovo tab", "price": 180, "featured": true, "company": "apple" },
+  { "name": "amazon fire", "price": 80, "featured": true, "company": "hp" }
+]
